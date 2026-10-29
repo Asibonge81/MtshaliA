@@ -14,13 +14,9 @@ st.set_page_config(
 )
 
 # Dashboard heading
-st.title("Ekurhuleni Women's Safety Dashboard")
+st.title("Ekurhuleni Sexual Related Attacks(2022-2026)")
 
-st.write(
-    "An interactive machine learning solution for "
-    "identifying reported-crime hotspots and analysing "
-    "safety-related crime patterns in Ekurhuleni."
-)
+
 
 st.info(
     "This dashboard uses reported crime statistics "
