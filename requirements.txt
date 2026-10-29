@@ -1,0 +1,8 @@
+Mtshali AI 22537508
+streamlit
+pandas
+plotly
+openpyxl
+joblib
+scikit-learn
+numpy
